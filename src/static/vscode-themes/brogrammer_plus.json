@@ -3,7 +3,7 @@
   "colors": {
     // Base Colors
     // https://code.visualstudio.com/api/references/theme-color#base-colors
-    "focusBorder": "#ffffff00",
+    "focusBorder": "#3794FF",
     // Editor colors
     "editor.background": "#121212",
     "editor.foreground": "#ffffffde",
